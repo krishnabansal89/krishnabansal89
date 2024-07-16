@@ -47,7 +47,7 @@ My ultimate goal is to become a successful tech entrepreneur, creating innovativ
 
 ## 📈 Contribution Graph
 
-![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnabansal89&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnabansal89&theme=github) 
 
 
 ## 📫 Let's Connect
