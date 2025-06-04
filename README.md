@@ -58,7 +58,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnabansal89&theme=radical" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">🔥 Coding Streak</h2>
+<h2 align="center">🔥 Coding Activity</h2>
 
 <div align="center">
   <img src="https://forkyou-svg-generator.vercel.app/api/activity?user=Krishna__Bansal" alt="Activity Overview" />
