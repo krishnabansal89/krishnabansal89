@@ -60,9 +60,7 @@
 
 <h2 align="center">🔥 Coding Activity</h2>
 
-<div align="center">
-  <img src="https://forkyou-svg-generator.vercel.app/api/activity?user=Krishna__Bansal" alt="Activity" />
-</div>
+
 
 <h2 align="center">📈 Contribution Graph</h2>
 
